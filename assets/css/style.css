@@ -9,12 +9,8 @@ VERSION:	Versoin Number
 -------------------------------------------------------------------*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Playfair+Display:400,700");
-@font-face {
-  font-family: 'hanskendrick';
-  src: url("../fonts/hanskendrick-regular-webfont.woff") format("woff");
-  font-style: normal;
-  font-display: swap;
-}
+
+
 
 body {
   line-height: 1.5;
@@ -33,7 +29,7 @@ p, .paragraph {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
-  font-family: "hanskendrick";
+  font-family: "Open Sans", sans-serif;
   font-weight: 600;
   line-height: 1.2;
 }
