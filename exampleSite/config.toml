@@ -17,7 +17,7 @@ description = "Tên Hay 100 tên hay, ý nghĩa dành cho bố mẹ tham khảo 
 email = "\u001Dlienhe@\u001Dtenhay.vn"
 google_analitycs_id = "Your ID"
 home = "Home"
-layout = "2"
+layout = "1"
 logo = "images/logo.png"
 mobile = "+09 12122294"
 [params.instafeed]
