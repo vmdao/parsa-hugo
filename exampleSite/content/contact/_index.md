@@ -6,7 +6,7 @@ image: images/contact.jpg
 menu:
   main:
     URL: contact
-    weight: 2
+    weight: 1
 
 ---
 lienhe@tenhay.vn
