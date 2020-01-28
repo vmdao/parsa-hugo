@@ -1,9 +1,17 @@
-baseURL = "https://examplesite.org"
-languageCode = "en-us"
+baseURL = "https://tenhay.vn"
+languageCode = "\u001Dvi-vn"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa | Personal Blog Template"
+title = "Tên ý nghĩa cho con | Tên hay"
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
